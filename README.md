@@ -1,4 +1,13 @@
-## Hi there 👋
+## Hello there 👋
+
+I'm Veronika, a self-taught Data Analyst, who is based in Prague :czech_republic:.  
+
+## 📚 My projects
+I am gradually uploading them to the GitHub, for now please find them below.
+
+## 🛠️ My tools
+Language: SQL, Python\
+Visualization: PowerBI
 
 <!--
 **VeronikaKudry/VeronikaKudry** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
