@@ -3,7 +3,7 @@
 I'm Veronika, a self-taught Data Analyst, who is based in Prague :czech_republic:.  
 
 ## 📚 My projects
-I am gradually uploading them to the GitHub, for now please find them below.
+I am gradually uploading them to the GitHub, for now please find them below in repositories.
 
 ## 🛠️ My tools
 Language: SQL, Python\
