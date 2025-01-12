@@ -5,7 +5,7 @@ I'm Veronika, a self-taught Data Analyst, who is based in Prague :czech_republic
 
 ### 📚 My projects  
  
-I am gradually uploading them to the GitHub, please find them below in repositories.
+I am gradually uploading my projects to the GitHub, please find them below in repositories.
 
 ### 🛠️ My tools  
  
