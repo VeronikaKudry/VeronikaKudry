@@ -1,6 +1,6 @@
 ## Hello there 👋
 
-I'm Veronika, a self-taught Data Analyst, who is based in Prague :czech_republic:.  
+I'm Veronika, a Master of Science (Technology) and a self-taught Data Analyst, who is based in Prague :czech_republic:.  
 
 
 ### 📚 My projects  
